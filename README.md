@@ -27,13 +27,13 @@ Instructions on how to use them in your own application are linked below.
 
 | Desarrolladores | Aportaciones|
 | ------ | ------ |
-| Yamile Isabela Montaño Hernandez| Estructura |
-| Emmanuel Alejandro Parra Almado|   |
-|Jonathan Martinez Segura| |
-|Efren Alexander Robles Gomez| |
-|David Iyari Garcia Herrera |  |
-|Lizbeth Estefania Sanchez Gomez | |
-|Enrique Valero Alamilla | |
+| Yamile |
+| Emma|   |
+|Jona| |
+|Efren| |
+|David|  |
+|Lizbeth| |
+|Enrique| |
 
 
 
